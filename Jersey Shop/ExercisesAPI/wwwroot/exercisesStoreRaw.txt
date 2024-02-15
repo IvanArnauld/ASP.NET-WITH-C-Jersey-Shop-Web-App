@@ -1,0 +1,449 @@
+﻿-80.026857,43.638462,374 Queen Street, Acton, ON
+-79.293227,43.782303,3850 Sheppard Avenue East, Agincourt, ON 
+-79.329554,43.793694,2936 Finch Ave E, Agincourt, ON 
+-79.025964,43.842458,222 Bayly Street W, Ajax, ON
+-79.018996,43.862549,135 Kingston Road East, Ajax, ON
+-79.020557,43.840887,270 Kingston Road East Rr #1, Ajax, ON
+-83.108286,42.097134,400 Sandwich Street S Maiden Mall, Amherstburg, ON
+-83.109854,42.105645,151 Sandwich Street South, Amherstburg, ON 
+-79.984193,43.212321,1051 Highway 53 West, Ancaster, ON
+-79.984372,43.212289,Martindale Crescent Meadowland Square, Ancaster, ON
+-79.889118,44.327649,231 Mill Street, Angus, ON
+-76.368744,45.424581,16 Baskin Drive W, Arnprior, ON
+-79.415106,44.014779,135 First Commerce Drive, Aurora, ON
+-79.462877,43.984064,2 Allaura Blvd, Aurora, ON
+-80.979088,42.772819,200 Talbot Street North, Aylmer, ON
+-77.856461,45.062555,141 Hastings Street North, Bancroft, ON
+-79.666396,44.369036,347 Yonge Street, Barrie, ON
+-79.708535,44.410212,446 Bayfield Street, Barrie, ON
+-79.688568,44.334363,35 Mapleview Drive West, Barrie, ON 
+-79.708689,44.410382,450 Bayfield Street, Barrie, ON
+-79.688284,44.335948,80 Barrie View Drive, Barrie, ON 
+-79.693024,44.387851,85 Dunlop Street, Barrie, ON
+-79.477084,43.185277,4748 Ontario Street, Beamsville, ON
+-77.391609,44.178811,185 N Front St, Belleville, ON
+-77.398204,44.196216,274 Millennium Parkway, Belleville, ON
+-77.353402,44.167531,470 Dundas Street East, Belleville, ON
+-79.709164,43.862843,150 Mcewan Drive East, Bolton, ON
+-79.753419,43.892161,12612 Highway #50, Bolton, ON
+-78.688763,43.915691,2387 Highway #2, Bowmanville, ON
+-79.291924,45.049004,40 Depot Drive, Bracebridge, ON
+-79.301329,45.03512,105 Highway #118 West, Bracebridge, ON
+-79.596247,44.107316,545 Holland Street West, Bradford, ON
+-79.702629,43.737881,2450 Queen Street East Rr#4, Brampton, ON
+-79.813317,43.684026,30 Brisdale Road, Brampton, ON
+-79.77176,43.694895,372 Main Street North, Brampton, ON
+-79.725437,43.659932,7690 Hurontario Street, Brampton, ON
+-79.694709,43.739417,30 Coventry Road, Brampton, ON
+-79.782483,43.705383,50 Quarry Edge Drive, Brampton, ON
+-79.795819,43.72666,160 Sandalwood Parkway East, Brampton, ON
+-79.672627,43.720302,2439 Steeles Ave East, Brampton, ON
+-79.7419,43.702558,344 Queen St East, Brampton, ON
+-79.731062,43.759085,45 Mountain Ash Rd, Brampton, ON
+-79.74117,43.689616,50 Kennedy Rd S, Brampton, ON
+-79.720415,43.677439,543 Steeles Avenue E., Brampton, ON
+-79.821882,43.731297,11670 Hurontario St N, Brampton, ON
+-80.245948,43.140866,27 Stanley Street, Brantford, ON
+-80.281102,43.18197,300 King George Rd, Brantford, ON
+-80.242159,43.162398,299 Wayne Gretzky Parkway, Brantford, ON
+-80.275197,43.165818,73 King George Rd, Brantford, ON
+-75.701455,44.603488,2454 Parkdale Street, Brockville, ON
+-75.685539,44.613948,1942 Parkdale Ave, Brockville, ON
+-79.819976,43.363717,1505 Guelph Line, Burlington, ON
+-79.76265,43.373074,4490 Fairview Street, Burlington, ON
+-79.810895,43.337849,2065 Fairview Road, Burlington, ON
+-79.791679,43.394634,2040 Appleby Line Unit #H, Burlington, ON
+-79.823509,43.39151,2991 Walkers Line, Burlington, ON
+-79.813369,43.380435,4515 Dundas St West Rr #1, Burlington, ON
+-79.831802,43.322583,623 Plains Road East, Burlington, ON
+-79.793895,43.344863,689 Guelph Line Rd, Burlington, ON
+-79.958786,43.064678,282 Argyle Street South, Caledonia, ON
+-80.324127,43.394892,416 Hespeler Rd, Cambridge, ON
+-80.326452,43.408421,22 Pinebush Road, Cambridge, ON
+-80.310282,43.418046,100 Jamieson Parkway, Cambridge, ON
+-80.305749,43.4302,Hespeler Station Po Box 2129, Cambridge, ON
+-80.291569,43.357635,400 Main Street East, Cambridge, ON
+-80.305749,43.4302,Hespeler Station Po Box 25030, Cambridge, ON
+-76.123762,45.13616,450 Mcneely Ave, Carleton Place, ON
+-82.2003,42.415488,411 St Clair St, Chatham, ON
+-82.219253,42.430879,801 St Clair St, Chatham, ON
+-82.205741,42.386517,710 Richmond Street, Chatham, ON
+-81.776787,47.162389,Highway 144, Chelmsford, ON
+-79.625269,43.515527,1829 Lakeshore Blvd West, Clarkson, ON
+-78.188853,43.968983,805 William Street, Cobourg, ON
+-78.199256,43.975173,73 Strathy Road, Cobourg, ON
+-79.521116,43.814207,1600 Highway 7, Concord, ON
+-79.53184,43.795101,101 Edgeley Blvd, Concord, ON
+-74.753034,45.029071,1301 Brookdale Avenue, Cornwall, ON
+-74.749863,45.024639,950 Brookdale Mall, Cornwall, ON
+-74.706315,45.025743,1314 Second Street East, Cornwall, ON
+-79.507383,43.715572,2020 Jane Street, Downsview, ON
+-79.513564,43.757867,1831 Finch Avenue W, Downsview, ON
+-79.949704,43.265429,10 Cootes Drive, Dundas, ON
+-79.607069,42.902973,630 Broad Street, Dunnville, ON
+-80.561228,43.587502,45 Industrial Drive, Elmira, ON
+-79.867866,44.585304,24 Yonge Street North, Elmvale, ON
+-82.843015,42.178419,390 Maidstone Ave, West Essex, ON
+-79.6058,43.738871,25 Carrier Drive, Etobicoke, ON
+-79.517374,43.630419,1001 Islington Avenue South, Etobicoke, ON
+-79.557453,43.617881,165 North Queen St, Etobicoke, ON
+-79.561119,43.610306,25 The West Mall, Etobicoke, ON
+-79.575598,43.631679,4333 Bloor St W, Etobicoke, ON
+-79.55837,43.694117,1735 Kipling Avenue Westway Plaza, Etobicoke, ON
+-79.556658,43.615853,195 North Queen Street, Etobicoke, ON
+-81.483571,43.362921,261 Main Street North, Exeter, ON
+-80.364124,43.694425,870 Tower Street South, Fergus, ON
+-79.171697,43.043608,124 Highway 20 East, Fonthill, ON
+-78.94375,42.905348,750 Garrison Road, Fort Erie, ON
+-78.942846,42.908257,1 Peace Bridge Plaza, Fort Erie, ON
+-78.926654,42.905677,325 Garrison Road, Fort Erie, ON
+-76.151368,44.336948,670 King Street East, Gananoque, ON
+-79.906486,43.65055,185 Guelph Street, Georgetown, ON
+-79.894465,43.649632,280 Guelph Street, Georgetown, ON
+-75.599898,45.417345,1890 Innes Road, Gloucester, ON
+-81.706082,43.731343,354 Bayfield Road, Goderich, ON
+-81.69561,43.73682,Huron Road  Rr #2, Goderich, ON
+-79.352018,44.934528,1105 Bethune Drive, Gravenhurst, ON
+-79.568129,43.195991,34 Livingston Ave Grimsby Plaza, Grimsby, ON
+-80.294386,43.55298,243 Woodlawn Avenue, Guelph, ON
+-80.245422,43.540853,65 Gordon Street, Guelph, ON
+-80.278392,43.564504,11 Woodlawn Road West, Guelph, ON
+-80.236467,43.517717,372 Stone Road West, Guelph, ON
+-80.274358,43.563029,735 Woolwich St, Guelph, ON
+-79.772635,43.229612,674 Queenston Road, Hamilton, ON
+-79.892442,43.202178,20 Rymal Road East, Hamilton, ON
+-79.888677,43.260917,50 Dundurn Street South, Hamilton, ON
+-79.782097,43.174293,2190 Rymal Road, Hamilton, ON
+-79.872065,43.257633,120 King Street West, Hamilton, ON
+-79.830913,43.255324,787 Barton Street, Hamilton, ON
+-79.86427,43.218475,970 Upper Wentworth St., Hamilton, ON
+-81.009122,44.155111,800 Tenth St, Hanover, ON
+-81.002406,44.156218,1100 10th Street, Hanover, ON
+-79.231403,45.342568,111 Howland Drive, Huntsville, ON
+-79.222042,45.555343,40 King William Street, Huntsville, ON
+-80.887441,43.042569,120 Thames Street North, Ingersoll, ON
+-75.894992,45.293654,510 Hazeldean Road, Kanata, ON
+-75.912875,45.309799,500 Earl Grey Drive, Kanata, ON
+-75.838338,45.281011,800 Stonehaven Drive, Kanata, ON 
+-94.472865,49.757285,24 Milkana Way Unit 1, Kenora, ON
+-94.469723,49.789598,900 Highway 17 East, Kenora, ON
+-81.615708,44.175135,792 Broadway Street, Kincardine, ON
+-76.498268,44.264687,1165 Division Street, Kingston, ON
+-76.575394,44.258721,2658 Princess St, Kingston, ON
+-76.567803,44.239042,533 Gardiners Road, Kingston, ON
+-76.573974,44.264027,1130 Midland Avenue, Kingston, ON
+-76.488416,44.232596,285 Princess, Kingston, ON
+-76.479144,44.249932,7 Niagara Park Dr Vimy Box, Kingston, ON
+-82.725368,42.038319,329 Main Street, Kingsville, ON
+-80.047131,48.146998,155 Government Rd West, Kirkland Lake, ON
+-80.490119,43.38638,1191 Fischer Hallman Road, Kitchener, ON
+-80.451987,43.419602,666 Fairway Rd, Kitchener, ON
+-80.540389,43.425229,100 The Boardwalk, Kitchener, ON
+-80.51209,43.416376,1400 Ottawa Street S Unit E, Kitchener, ON
+-80.440092,43.425173,2960 Kingsway Drive, Kitchener, ON
+-80.443821,43.451203,1020 Ottawa Street North, Kitchener, ON
+-80.456281,43.466869,1138 Victoria St, Kitchener, ON
+-80.41397,43.387194,2410 Homer Watson Boul, Kitchener, ON
+-80.487272,43.449754,25 Frederick Street, Kitchener, ON
+-80.39354,43.408148,40 Sportsworld Drive, Kitchener, ON
+-80.488506,43.431965,431 Highland Road, Kitchener, ON
+-80.501313,43.453956,600 King Street West, Kitchener, ON
+-80.483276,43.425544,715 Ottawa Street South, Kitchener, ON
+-82.585163,42.056491,214 Talbot Street, Leamington, ON
+-82.600789,42.035916,298 Erie Street South, Leamington, ON
+-78.753813,44.351299,333 Kent Street, Lindsay, ON
+-80.945774,43.740626,970 Wallace Ave North, Listowel, ON
+-81.276058,43.028372,103 Fanshawe Park Road East, London, ON
+-81.282223,42.941164,1033 Wonderland Rd S, London, ON
+-81.173288,43.005601,1950 Dundas Street, London, ON
+-81.23097,42.960614,385 Wellington Rd S, London, ON
+-81.209418,42.918311,4350 Wellington Road South, London, ON
+-81.193974,42.977534,959 Hamilton Road East, London, ON
+-81.221645,42.931623,1105 Wellington Road South, London, ON
+-81.331642,43.012165,1280 Fanshawe Park Rd W, London, ON
+-81.174361,43.002215,330 Clarke Road, London, ON
+-81.223154,42.934039,1074 Wellington Road South, London, ON
+-81.212926,43.014802,1159 Highbury Ave, London, ON
+-81.30318,43.004281,1175 Wonderland Road, London, ON
+-81.250178,42.983434,151 Dundas Street, London, ON
+-81.2609,42.959985,462 Wharncliffe Road, London, ON
+-81.289962,42.984459,530 Oxford St W, London, ON
+-79.532664,43.850871,2810 Major Mackenzie Drive, Maple, ON
+-79.285975,43.866664,5225 Hwy #7, Markham, ON
+-79.304075,43.83948,7600 Kennedy Rd, Markham, ON
+-79.317699,43.859867,5000 Highway 7, Markham, ON
+-79.333358,43.856036,3760 Hwy #7, Markham, ON
+-79.304056,43.824517,4390 Steeles Avenue East, Markham, ON
+-79.263784,43.900631,9291 Highway 48, Markham, ON
+-79.902527,44.74361,Hwy # 93, Midland, ON
+-79.886744,44.747545,16845 Hwy 12, Midland, ON
+-79.900258,43.524177,590 Martin Street, Milton, ON
+-79.869002,43.543655,1280 Steeles Ave East, Milton, ON
+-79.591574,43.60217,1050 Dundas Street East, Mississauga, ON
+-79.683727,43.57909,1256 Eglinton Avenue West, Mississauga, ON 
+-79.583372,43.564262,601 Lakeshore Road East, Mississauga, ON
+-79.639508,43.592093,100 City Centre Drive, Mississauga, ON
+-79.684144,43.545528,2150 Burnhamthorpe, Mississauga, ON
+-79.690789,43.607874,800 Matheson Blvd West, Mississauga, ON
+-79.655186,43.529526,2255 Erin Mills Parkway, Mississauga, ON
+-79.614032,43.578383,2500 Hurontario St, Mississauga, ON
+-79.716712,43.55008,2965 Eglinton Ave W, Mississauga, ON
+-79.693377,43.637702,30 Courtney Park & Hwy #10, Mississauga, ON
+-79.628303,43.571128,3025 Clayhill Rd, Mississauga, ON
+-79.625748,43.601789,377 Burnhamthorpe Road East, Mississauga, ON
+-79.662039,43.615527,44 Bristol Road East, Mississauga, ON
+-79.629619,43.641876,5310 Dixie Road, Mississauga, ON
+-79.729455,43.566371,5636 Glen Erin Drive, Mississauga, ON
+-79.695074,43.61186,5995 Mavis Road, Mississauga, ON
+-79.668209,43.592965,670 Eglinton Ave West, Mississauga, ON
+-79.654635,43.576537,796 Burnhamthorpe Rd West, Mississauga, ON
+-79.718623,43.637675,7050 Mclaughlin Road, Mississauga, ON
+-79.685491,43.664871,930 Derry Road East, Mississauga, ON
+-79.593046,43.663333,2800 Skymark Avenue, Mississauga, ON
+-74.883862,45.131084,12438 County Road #2, Morrisburg, ON
+-76.962955,44.260397,475 Centre St N, Napanee, ON
+-76.9553265,44.2977387,89 Jim Kemmett Blvd, Napanee, ON
+-75.731452,45.347693,1675 Merivale Road, Nepean, ON
+-75.757667,45.353455,1850 Baseline Road, Nepean, ON
+-75.747768,45.26983,3773 Strandherd Drive, Nepean, ON
+-75.834836,45.321301,126 Robertson Rd, Nepean, ON
+-75.732739,45.297768,3340  Fallowfield Road, Nepean, ON
+-75.742455,45.272132,3651 Stranherd Drive, Nepean, ON
+-80.693814,43.376368,3589 Bleams Road, New Hamburg, ON
+-78.546944,43.914371,1000 Regional Road # 17, Newcastle, ON
+-79.478129,44.046159,17155 Yonge Street, Newmarket, ON
+-79.430831,44.065896,1100 Davis Drive, Newmarket, ON
+-79.481925,44.060377,17760 Yonge Street, Newmarket, ON
+-79.097853,43.115404,6161 Thorold Stone Road, Niagara Falls, ON
+-79.100547,43.089255,6348 Lundys Lane, Niagara Falls, ON
+-79.117625,43.067853,7275 Oakwood Dr, Niagara Falls, ON
+-79.107534,43.233598,1835 Niagara Stone Rd, Niagara On The Lake, ON
+-79.45202,46.290538,140 Lakeshore Dr, North Bay, ON
+-79.443205,46.31283,1500 Fisher Street, North Bay, ON
+-79.46731,46.334402,999 Mckeown, North Bay, ON
+-79.454837,43.715618,3101 Dufferin St, North York, ON
+-79.411164,43.762107,4828 Yonge Street, North York, ON
+-79.335526,43.713235,747 Don Mills Road, North York, ON
+-79.535197,43.711743,2625F Weston Road, North York, ON
+-79.345197,43.775555,1800 Sheppard Ave East, North York, ON
+-79.358749,43.753269,808 York Mills Rd Building D Unit 1, North York, ON
+-79.682725,43.519223,2510 Hampshire Gate, Oakville, ON
+-79.68496,43.465489,375 Iroquois Shore Rd, Oakville, ON
+-79.719613,43.483289,235 Hays Blvd, Oakville, ON
+-79.739906,43.440308,1500 Upper Middle Road West, Oakville, ON
+-79.702614,43.450382,210 North Service Road West, Oakville, ON
+-79.683165,43.456829,227 Cross Ave, Oakville, ON
+-79.707268,43.398289,2290 Lakeshore Road West, Oakville, ON
+-79.743304,43.466116,486 Dundas St West, Oakville, ON
+-80.086572,43.921719,23 Broadway, Orangeville, ON
+-80.099821,43.929444,95 First Street, Orangeville, ON
+-79.424158,44.593797,320 Memorial Ave, Orillia, ON
+-79.445729,44.61613,175 Murphy Road, Orillia, ON
+-75.524034,45.471558,2643 St Joseph Blvd., Orleans, ON
+-75.510087,45.453313,3900 Innes Road, Orleans, ON
+-78.815479,43.906456,1300 King Street East, Oshawa, ON
+-78.87877,43.882631,450 Stevenson Rd South, Oshawa, ON
+-78.878889,43.933332,1349 Simcoe St N, Oshawa, ON
+-78.849695,43.940443,1369 Harmony Rd N, Oshawa, ON
+-78.850629,43.942627,1471 Harmony Road, Oshawa, ON
+-78.880031,43.893689,419 King Street West, Oshawa, ON
+-78.847641,43.886765,501 Ritson Rd S, Oshawa, ON
+-75.625812,45.404218,1795 St Laurent Blvd, Ottawa, ON
+-75.64973,45.354439,2380 Bank St, Ottawa, ON
+-75.789816,45.362039,2625 Carling Avenue, Ottawa, ON
+-75.787155,45.366308,1350 Richmond Rd, Ottawa, ON
+-75.736238,45.363168,1375 Baseline Road, Ottawa, ON
+-75.653697,45.357054,2210 Bank Street, Ottawa, ON
+-75.651127,45.414559,450 Terminal Avenue, Ottawa, ON
+-75.639299,45.428233,1007 St Laurent Blvd, Ottawa, ON
+-75.62701,45.362012,1661 Hunt Club Road, Ottawa, ON
+-75.640776,45.379764,1771 Walkley, Ottawa, ON
+-75.758366,45.375295,1880 Carling Ave, Ottawa, ON
+-75.589429,45.4492,2170 Montreal Road, Ottawa, ON
+-75.679738,45.386627,2269 Riverside Drive, Ottawa, ON
+-75.690758,45.418048,252 Elgin Street, Ottawa, ON
+-75.643485,45.442067,594 Montreal Rd, Ottawa, ON
+-75.692351,45.426766,60 George Street, Ottawa, ON
+-75.700971,45.402988,670 Bronson Avenue, Ottawa, ON
+-75.700846,45.420825,77 Bank Street, Ottawa, ON
+-80.963538,44.56422,1015  10Th Street West, Owen Sound, ON
+-80.912752,44.57451,1555 18Th Avenue East, Owen Sound, ON
+-80.389257,43.21208,307 Grand River Street North, Paris, ON
+-77.091843,45.826193,805 Pembroke Street East, Pembroke, ON
+-77.085529,45.82403,1108 Pembroke Street East, Pembroke, ON
+-77.281945,45.900007,43 Highway Street, Petawawa, ON
+-79.073527,43.847492,1899 Brock Rd, Pickering, ON
+-77.137522,44.008942,97 Main St Comp 13, Picton, ON
+-79.26547,42.897876,569 Main Street West, Port Colborne, ON
+-81.399502,44.422501,5122 Hwy 21, Port Elgin, ON
+-81.395609,44.427924,278 Goderich Street, Port Elgin, ON
+-78.28391,43.969407,175 Rose Glen Road North, Port Hope, ON
+-76.647988,45.481322,980 O'Brien Rd, Renfrew, ON
+-79.56977,43.717702,2116 Kipling Ave N, Rexdale, ON
+-79.442627,43.89523,11005 Yonge Street, Richmond Hill, ON
+-79.414116,43.876377,1070 Major Mackenzie Drive East, Richmond Hill, ON
+-79.455058,43.947013,13081 Yonge Street, Richmond Hill, ON
+-79.415136,43.875509,9989 Bayview, Richmond Hill, ON
+-79.391213,43.842482,420 Hwy 7E, Richmond Hill, ON
+-75.305331,45.53367,3001 Richelieu Street, Rockland, ON
+-75.299668,45.542876,2686 Laurier Street, Rockland, ON
+-82.356027,42.98464,1330 Exmouth Street, Sarnia, ON
+-82.349173,42.986175,1444 Quinn Drive, Sarnia, ON
+-82.361275,42.979462,1253 London & Murphy Road, Sarnia, ON
+-82.403378,42.980287,411 Christina Street N, Sarnia, ON
+-84.319123,46.536915,371 Great Northern Road, Sault Ste Marie, ON
+-84.337848,46.513127,293 Bay Street, Sault Ste Marie, ON
+-84.272395,46.522334,673 Trunk Road, Sault Ste Marie, ON
+-79.294961,43.709027,3150 St Clair E, Scarborough, ON
+-79.310186,43.778057,3305 Sheppard Ave E, Scarborough, ON
+-79.313442,43.758194,65 Ellesmere Road, Scarborough, ON
+-79.323016,43.816052,395 Bamburgh Circle, Scarborough, ON
+-79.233865,43.781147,1280 Markham Rd, Scarborough, ON
+-79.271018,43.810689,1571 Sandhurst Circle, Scarborough, ON
+-79.239661,43.738731,2870 Eglinton Ave E, Scarborough, ON
+-79.253982,43.77545,300 Borough Dr  Unit #3, Scarborough, ON
+-79.204,43.797755,785 Milner Avenue, Scarborough, ON
+-79.302009,43.72337,1 Eglinton Square, Scarborough, ON
+-79.285903,43.687168,2480 Gerrard Street East, Scarborough, ON
+-79.315845,43.796839,2900 Warden Ave, Scarborough, ON
+-79.24317,43.810922,2260 Markham Road, Scarborough, ON
+-79.261844,43.752034,2701 Lawrence Avenue East, Scarborough, ON
+-79.264992,43.765177,300 Borough Drive  Suite #4, Scarborough, ON
+-79.221333,43.805532,31 Tapscott Road, Scarborough, ON
+-79.234403,43.746329,3227 Eglinton Ave E, Scarborough, ON
+-79.228746,43.758942,3495 Lawrence Ave  East, Scarborough, ON
+-79.188354,43.768706,4435 Kingston Rd, Scarborough, ON
+-80.016167,44.522991,Rr #2, Shanty Bay, ON
+-80.289014,42.848737,160 Queensway Road East, Simcoe, ON
+-80.299836,42.847421,77 Queensway E, Simcoe, ON
+-79.266591,43.176569,385 Ontario St, St Catharines, ON 
+-79.211923,43.1761,525 Welland Ave, St Catharines, ON
+-79.270358,43.152804,420 Vansickle Rd, St Catharines, ON 
+-79.211923,43.1761,525 Welland Ave, St Catharines, ON
+-79.225892,43.132476,210 Glendale Avenue, St Catharines, ON
+-79.270358,43.152804,420 Vansickle Rd, St Catharines, ON
+-79.226519,43.12306,460 St David Rd, St Catharines, ON
+-79.213113,43.175362,500 Welland Ave, St Catharines, ON
+-79.225892,43.132476,210 Glendale Avenue St, Catharines, ON
+-79.240991,43.177181,285 Geneva Street, St Catharines, ON
+-79.270358,43.152804,420 Vansickle Road, St Catharines, ON
+-79.226519,43.12306,460 St David Rd, St Catharines, ON
+-79.213113,43.175362,500 Welland Ave, St Catharines, ON
+-81.180027,42.778928,955 Talbot Street, St Thomas, ON
+-75.920898,45.26286,1250 Main Street, Stittsville, ON
+-79.712444,43.21546,385 Highway 8, Stoney Creek, ON
+-79.763453,43.230402,75 Centennial Parkway North, Stoney Creek, ON 
+-79.775674,43.175828,21 Upper Centennial Pkwy S, Stoney Creek, ON
+-79.273791,43.957787,1050 Hoover Park Drive, Stouffville, ON
+-79.2702,43.965407,28 Sandiford Dr, Stouffville, ON
+-80.945673,43.370889,1040 Ontario St, Stratford, ON
+-80.996954,43.354469,709 Erie Street, Stratford, ON
+-80.958115,46.501956,1194 Kingsway, Sudbury, ON
+-81.005783,46.454959,1740 Regent St S, Sudbury, ON
+-80.948828,46.521854,1349 Lasalle Boul, Sudbury, ON
+-81.005563,46.443343,2416 Long Lake Road, Sudbury, ON
+-80.98452,46.514179,914 Newgate Ave, Sudbury, ON
+-82.869657,42.306861,1631 Manning Road, Tecumseh, ON
+-79.431361,43.795706,300 Steeles Ave, West Thornhill, ON
+-79.45102,43.810792,700 Centre Street, Thornhill, ON
+-79.428874,43.830305,One Promenade Circle, Thornhill, ON
+-89.244383,48.412929,770 Memorial Avenue, Thunder Bay, ON
+-89.248496,48.445983,853 Red River Road, Thunder Bay, ON
+-89.243115,48.414036,777 Memorial Avenue, Thunder Bay, ON
+-89.281745,48.380963,201 Arthur St, Thunder Bay, ON
+-89.21638,48.437463,81 North Cumberland Street, Thunder Bay, ON
+-80.705985,42.857549,170 Simcoe Street, Tillsonburg, ON
+-79.3385,43.668715,1000 Gerrard Street E, Toronto, ON
+-79.439272,43.668347,1185 Dupont Street, Toronto, ON
+-79.428107,43.638653,1221 King Street West, Toronto, ON
+-79.376953,43.710652,1787 Bayview Avenue, Toronto, ON
+-79.475247,43.699715,2 Ingram Drive, Toronto, ON
+-79.490885,43.763227,3929 Keele Street, Toronto, ON
+-79.4741,43.709706,1305 Lawrence Avenue West, Toronto, ON
+-79.294935,43.726412,1900 Eglinton Avenue East, Toronto, ON
+-79.484657,43.668576,2525 St Clair Ave West, Toronto, ON
+-79.434377,43.656825,900 Dufferin Street, Toronto, ON
+-79.554286,43.713938,2267 Islington Avenue, Toronto, ON
+-79.446991,43.638816,10 Queensway, Toronto, ON
+-79.381996,43.64688,100 Wellington St West, Toronto, ON
+-79.348714,43.689717,1045 Pape Avenue, Toronto, ON
+-79.391107,43.6539,109 Mccaul Street, Toronto, ON
+-79.393405,43.688071,11 St Clair Ave East, Toronto, ON
+-79.44324,43.677996,1168 St Clair Avenue West, Toronto, ON
+-79.370208,43.649773,121 Front St East, Toronto, ON
+-79.384032,43.651312,123 Queen St West, Toronto, ON
+-79.378412,43.650858,123 Yonge St, Toronto, ON
+-79.375611,43.653095,127 Church Street, Toronto, ON
+-79.58491,43.743293,1530 Albion Road, Toronto, ON
+-79.396621,43.648774,160 Spadina Avenue, Toronto, ON
+-79.320368,43.683901,1735 Danforth Avenue, Toronto, ON
+-79.449415,43.695725,1807 Eglinton Avenue West, Toronto, ON
+-79.376569,43.64061,181 Bay St, Toronto, ON
+-79.419629,43.732644,1890 Avenue Rd, Toronto, ON
+-79.39525,43.668608,192A Bloor St W, Toronto, ON
+-79.285673,43.728364,1966 Eglinton Ave E, Toronto, ON
+-79.253152,43.724098,2 Greystone Walk Drive, Toronto, ON
+-79.397891,43.706972,20 Eglinton Ave E, Toronto, ON
+-79.385286,43.644818,200 Front Street West, Toronto, ON
+-79.379791,43.65313,218 Yonge Street, Toronto, ON
+-79.476142,43.651222,2218 Bloor Street West, Toronto, ON
+-79.544776,43.751713,2362 Finch Avenue West, Toronto, ON
+-79.452827,43.657071,2365 Dundas Street West, Toronto, ON
+-79.315699,43.66986,29/31 Woodward Avenue, Toronto, ON
+-79.404319,43.732751,3400 Yonge St, Toronto, ON
+-79.406113,43.652059,344 Bathurst Street, Toronto, ON
+-79.379099,43.671861,345 Bloor Street East, Toronto, ON
+-79.406618,43.744248,4025 Yonge Street, Toronto, ON
+-79.34933,43.705156,45 Overlea Blvd, Toronto, ON
+-79.383609,43.662209,470 Yonge Street, Toronto, ON
+-79.384563,43.664429,552 Yonge Street, Toronto, ON
+-79.383731,43.65616,595 Bay St, Toronto, ON
+-79.467479,43.671766,630 Keele Street, Toronto, ON
+-79.386114,43.66883,675 Yonge Street, Toronto, ON
+-79.446817,43.715685,700 Lawrence Ave, W Toronto, ON
+-79.403565,43.643864,710 King Street West, Toronto, ON
+-79.426678,43.681644,710 St Clair W, Toronto, ON
+-79.434377,43.656825,900 Dufferin Street, Toronto, ON
+-79.358642,43.676341,98 Danforth Ave, Toronto, ON
+-79.376569,43.64061,61 Front Street West, Toronto, ON
+-79.465821,43.757677,150 Rimrock Road, Toronto, ON
+-79.543375,43.632739,5453 Dundas Street St W, Toronto, ON
+-77.558095,44.104854,266 Dundas St East, Trenton, ON
+-77.556023,44.11451,Rr #4, Trenton, ON
+-77.579942,44.129523,18 Monogram Place, Trenton, ON
+-81.007263,46.609478,2956 Hwy 69 North, Val Caron, ON
+-79.556468,43.826328,9200 Weston Road, Vaughan, ON
+-79.583783,43.827476,8300 Highway #27, Vaughan, ON
+-79.536503,43.830047,3140 Rutherford Road, Vaughan, ON
+-79.527672,43.774292,3320 Steeles Avenue West, Vaughan, ON
+-79.60883,43.824911,9600 Islington Ave, Vaughan, ON
+-82.384663,42.587619,50 Mcnaughton Ave, Wallaceburg, ON
+-80.006596,44.524788,100 Stonebridge Road, Wasaga Beach, ON
+-79.756911,44.490452,1269/1275 Mosley Street, Wasaga Beach, ON
+-79.902121,43.335466,115 Hamilton Street North, Waterdown, ON
+-79.911205,43.317525,90 Dundas Street East, Waterdown, ON
+-80.576113,43.492087,335 Farmers Market Road, Waterloo, ON 
+-80.525858,43.481405,362 King Street North, Waterloo, ON
+-80.536943,43.500237,55 Northfield Dr, Waterloo, ON
+-79.250263,43.009206,631 Niagara St, Welland, ON
+-79.229367,43.014834,102 Primeway Drive, Welland, ON
+-78.912112,43.886519,1615 Dundas St E, Whitby, ON 
+-78.936496,43.86718,1301 Brock St South, Whitby, ON
+-78.949688,43.91717,200 Taunton Road East, Whitby, ON
+-78.958258,43.917108,4100 Baldwin St South, Whitby, ON
+-79.446484,43.789447,6170 Bathurst St, Willowdale, ON
+-79.419532,43.795538,6344 Yonge Street, Willowdale, ON
+-83.009532,42.266462,3354 Dougall Road, Windsor, ON
+-82.965694,42.25704,4395 Walker Rd, Windsor, ON
+-82.933259,42.313874,7777 Tecumseh Rd E, Windsor, ON
+-83.010654,42.268203,3208 Dougall Rd, Windsor, ON
+-82.941865,42.312462,7100 Tecumseh Rd E, Windsor, ON
+-83.004838,42.273193,3195 Howard Avenue, Windsor, ON 
+-82.978918,42.32673,4840 Wyandotte Street East, Windsor, ON
+-83.08582,42.259128,5631 Ojibway Parkway, Windsor, ON
+-83.0652,42.298547,883 Huron Church Line Rd, Windsor, ON
+-83.035113,42.314584,93 Wyandotte Street East, Windsor, ON
+-79.580625,43.797383,4535 Highway #7, Woodbridge, ON
+-80.737518,43.115411,507 Norwich Avenue, Woodstock, ON
+-80.730458,43.133756,980 Dundas St, Woodstock, ON
+-80.737581,43.115589,499 Norwich Avenue, Woodstock, ON

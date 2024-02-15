@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PpNsqP0cQOxbIuTK0ohYc7xDZ+3vrMJ06n3PbAwvkf0=",
+  "Source": "ExercisesAPI",
+  "BasePath": "_content/ExercisesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExercisesAPI\\wwwroot",
+      "Source": "ExercisesAPI",
+      "ContentRoot": "C:\\Users\\Ivan\\Documents\\FANSHAWE\\COURSES\\S4\\ASP.NET PROGRAMMING WITH C#\\ExercisesAPI\\ExercisesAPI\\wwwroot\\",
+      "BasePath": "_content/ExercisesAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ivan\\Documents\\FANSHAWE\\COURSES\\S4\\ASP.NET PROGRAMMING WITH C#\\ExercisesAPI\\ExercisesAPI\\wwwroot\\exercisesStoreRaw.txt",
+      "SourceId": "ExercisesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ivan\\Documents\\FANSHAWE\\COURSES\\S4\\ASP.NET PROGRAMMING WITH C#\\ExercisesAPI\\ExercisesAPI\\wwwroot\\",
+      "BasePath": "_content/ExercisesAPI",
+      "RelativePath": "exercisesStoreRaw.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exercisesStoreRaw.txt"
+    }
+  ]
+}
