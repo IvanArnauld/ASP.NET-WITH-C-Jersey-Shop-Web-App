@@ -2,17 +2,17 @@
 Overview
 This project is a web application built with Vue.js and ASP.NET Core. It serves as a platform for managing a football-related store, providing functionalities such as user authentication, order history, product selection, and a store locator using map integration.
 
-Table of Contents
-Features
-Technologies Used
-Project Structure
-Setup and Configuration
-Usage
-API Endpoints
-Map Functionality
-License
-Features
-User Authentication:
+## Table of Contents
+# Features
+# Technologies Used
+# Project Structure
+# Setup and Configuration
+# Usage
+# API Endpoints
+# Map Functionality
+# License
+# Features
+# User Authentication:
 
 Allows users to register and log in securely.
 Implements JWT authentication for secure communication between the Vue.js frontend and ASP.NET Core backend.
